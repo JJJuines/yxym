@@ -1,0 +1,6 @@
+mfa.gov.ua:2096#电信←移动←联通（乌克兰外交部）
+www.shopify.com:2096#电信←移动←联通（Shopify官方）
+store.ubi.com:2096#移动←电信←联通（Ubisoft）
+staticdelivery.nexusmods.com:2096#移动←电信←联通（NexusMods）
+cloudflare-dl.byoip.top:2096#电信←移动←联通（三网优选-fishcpy维护）
+saas.sin.fan:2096#电信←移动←联通（三网优选-MIYU维护）
